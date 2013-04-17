@@ -6,6 +6,10 @@ La mission
 
 Une société vous donne un site web développé par le fils du président de la boite, vous devez sécurisé son code tout en restant concis dans vos modifications.
 
+Komenkonfaitlisis?
+------------------
+http://git.sec-l.org/
+
 Installation avec apache2 sous linux
 ------------------------------------
 
