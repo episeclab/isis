@@ -25,9 +25,12 @@ Nous attribuons quelques bonus, voici des exemples de points que nous aimons bie
 + avoir un git configuré et un [gravatar](http://gravatar.com/)
 + code intélligent, tricks sympas
 + écriture d'un changelog
++ si vous avez un compte github actif
 
 Et d'autres points que nous n'aimons pas et qui donnent des malus:
 
 - commits en root
 - gros commits pour petits changements
 - commits inutiles 
+
+Si vous pensez mériter des bonus, vous pouvez laisser un fichier bonus.txt à la racine du repos pour être sûr que nous ne passerons pas à coté
