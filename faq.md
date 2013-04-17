@@ -32,6 +32,11 @@ Y aura-t'il une session d'attaque ?
 
 *Si* c'est le cas, nous ne mettrons que les repos ayant eu des bonnes modifications, et il n'y aura pas de malus pour les teams se faisant attaquer, mais seulement des bonus pour les teams qui réussissent à attaquer les autres.
 
+Est-ce que je peux utiliser la lib X ou la lib Y ?
+--------------------------------------------------
+Non. On ne vous demande pas de recoder tout le site, simplement de patcher les failles.  
+Vos changements doivent donc être les plus simples et courts possible.
+
 Notation
 --------
 Vous serez corrigés sur la qualité de vos patches
