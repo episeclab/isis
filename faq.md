@@ -19,7 +19,7 @@ Vous serez corrigés sur la qualité de vos patches.
 
 Nous attribuons quelques bonus, voici des exemples de points que nous aimons bien voir:
 
-+ utilisation du système d'issues
++ :+1: utilisation du système d'issues
 + travail en équipe
 + bons messages de commits
 + commits séparés par fonctionnalités / groupe de modifications logique
