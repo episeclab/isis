@@ -3,7 +3,6 @@ Bienvenue sur IsisProject 2013
 
 La mission
 ----------
-
 Une société vous donne un site web développé par le fils du président de la boite, vous devez sécurisé son code tout en restant concis dans vos modifications.
 
 Komenkonfaitlisis?
@@ -12,12 +11,10 @@ http://git.sec-l.org/
 
 Installation avec apache2 sous linux
 ------------------------------------
-
 TODO
 
 Notation
 --------
-
 Vous serez corrigés sur la qualité de vos patches.
 
 Nous attribuons quelques bonus, voici des exemples de points que nous aimons bien voir:
