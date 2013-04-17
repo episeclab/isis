@@ -42,3 +42,11 @@ Et d'autres points que nous n'aimons pas et qui donnent des malus:
 - :-1: commits inutiles 
 
 Si vous pensez mériter des bonus, vous pouvez laisser un fichier bonus.txt à la racine du repos pour être sûr que nous ne passerons pas à coté
+
+J'ai un problème et je ne trouve pas la réponse
+-----------------------------------------------
+
+Dans l'ordre:
+- vérifiez qu'il n'y a pas la réponse dans cette faq ou dans les mails qu'on vous envoie
+- regardez si il n'y a pas déjà une issue [ouverte](https://github.com/episeclab/isis/issues?page=1&state=open) ou [fermée](https://github.com/episeclab/isis/issues?page=1&state=closed)
+- demandez sur irc: ##esl (irc.freenode.net:6667) ou envoyez un email à isis@episeclab.org
