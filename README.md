@@ -1,4 +1,4 @@
-ThotProject Presentation Repository
+IsisProject Presentation Repository
 ===================================
 
 <img src="https://raw.github.com/episeclab/logos/master/logos/isis/logo_center_small.png" width="600">
