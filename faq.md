@@ -1,8 +1,6 @@
 Bienvenue sur IsisProject 2013
 ==============================
 
-Intro
-
 La mission
 ----------
 
