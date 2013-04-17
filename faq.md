@@ -18,7 +18,7 @@ Notation
 
 Vous serez corrigés sur la qualité de vos patches.
 
-Nous attribuons quelques bonus suivant des petits détails qui sont un plus lors du développement open-source :
+Nous attribuons quelques bonus, voici des exemples de points que nous aimons bien voir:
 
 + utilisation du système d'issues
 + travail en équipe
@@ -26,8 +26,10 @@ Nous attribuons quelques bonus suivant des petits détails qui sont un plus lors
 + commits séparés par fonctionnalités / groupe de modifications logique
 + avoir un git configuré et un [gravatar](http://gravatar.com/)
 + code intélligent, tricks sympas
++ écriture d'un changelog
 
-Et aussi quelques malus :
+Et d'autres points que nous n'aimons pas et qui donnent des malus:
+
 - commits en root
 - gros commits pour petits changements
 - commits inutiles 
