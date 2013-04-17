@@ -9,6 +9,19 @@ Komenkonfaitlisis?
 ------------------
 http://git.sec-l.org/
 
+Je n'ai pas de mot-de-passe pour me connecter
+---------------------------------------------
+- Mettez votre adresse email login_x@epitech.eu ici: http://git.sec-l.org/users/password/new
+- Cliquez sur le lien dans le mail
+- Choisissez un nouveau mot-de-passe
+
+Comment `pull` le repo depuis le serveur git ?
+----------------------------------------------
+- Générez une clé ssh si vous n'en avez pas déjà une `man ssh-keygen`
+- Ajoutez votre clé ssh sur http://git.sec-l.org/keys
+- Vous trouverez l'adresse de votre repo dans la partie `home` du repo, l'url ressemble à `git@git.sec-l.org:isis2013/isis-XXXXXXXX.git`
+- Dans un terminal: `git pull git@git.sec-l.org:isis2013/isis-XXXXXXX.git`
+
 Installation avec apache2 sous linux
 ------------------------------------
 TODO
