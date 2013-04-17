@@ -3,7 +3,7 @@ Bienvenue sur IsisProject 2013
 
 La mission
 ----------
-Une société vous donne un site web développé par le fils du président de la boite, vous devez sécurisé son code tout en restant concis dans vos modifications.
+Une société vous donne un site web développé par le fils du président de la boite, vous devez sécurisé son code tout en restant concis dans vos modifications
 
 Komenkonfaitlisis?
 ------------------
@@ -28,15 +28,15 @@ TODO
 
 Y aura-t'il une session d'attaque ?
 -----------------------------------
-Ça dépend de la participation des gens à l'Isis cette année et des projets dans votre emploi du temps.
+Ça dépend de la participation des gens à l'Isis cette année et des projets dans votre emploi du temps
 
-*Si* c'est le cas, nous ne mettrons que les repos ayant eu des bonnes modifications, et il n'y aura pas de malus pour les teams se faisant attaquer, mais seulement des bonus pour les teams qui réussissent à attaquer les autres.
+*Si* c'est le cas, nous ne mettrons que les repos ayant eu des bonnes modifications, et il n'y aura pas de malus pour les teams se faisant attaquer, mais seulement des bonus pour les teams qui réussissent à attaquer les autres
 
 Notation
 --------
-Vous serez corrigés sur la qualité de vos patches.
+Vous serez corrigés sur la qualité de vos patches
 
-Nous attribuons quelques bonus, voici des exemples de points que nous aimons bien voir:
+Nous attribuons quelques bonus, voici des exemples de points que nous aimons bien voir :
 
 + :+1: utilisation du système d'issues
 + :+1: travail en équipe
@@ -61,5 +61,5 @@ J'ai un problème et je ne trouve pas la réponse
 
 Dans l'ordre:
 - vérifiez qu'il n'y a pas la réponse dans cette faq ou dans les mails qu'on vous envoie
-- regardez si il n'y a pas déjà une issue [ouverte](https://github.com/episeclab/isis/issues?page=1&state=open) ou [fermée](https://github.com/episeclab/isis/issues?page=1&state=closed)
+- regardez si il n'y a pas déjà une issue Github ([ouverte](https://github.com/episeclab/isis/issues?page=1&state=open) ou [fermée](https://github.com/episeclab/isis/issues?page=1&state=closed))
 - demandez sur irc: ##esl (irc.freenode.net:6667) ou envoyez un email à isis@episeclab.org
