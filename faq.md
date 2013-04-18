@@ -15,6 +15,12 @@ Je n'ai pas de mot-de-passe pour me connecter
 - Cliquez sur le lien dans le mail
 - Choisissez un nouveau mot-de-passe
 
+Git ?
+-----
+
+- http://learn.github.com/
+- http://try.github.com/
+
 Comment `pull` le repo depuis le serveur git ?
 ----------------------------------------------
 - Générez une clé ssh si vous n'en avez pas déjà une `man ssh-keygen`
