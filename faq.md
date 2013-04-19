@@ -28,9 +28,8 @@ Comment `pull` le repo depuis le serveur git ?
 - Vous trouverez l'adresse de votre repo dans la partie `home` du repo, l'url ressemble à `git@git.sec-l.org:isis2013/isis-XXXXXXXX.git`
 - Dans un terminal: `git pull git@git.sec-l.org:isis2013/isis-XXXXXXX.git`
 
-Installation avec apache2 sous linux
-------------------------------------
-Ce qui suit est à réaliser sur une debian.  
+Installation avec apache2 sous debian
+-------------------------------------
 `sudo aptitude install apache2 php5 mysql-server libapache2-mod-php5 php5-mysql`  
 Entrer deux fois un mot de passe pour mysql (s'il n'est pas déjà installé)  
 
