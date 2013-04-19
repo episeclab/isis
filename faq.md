@@ -30,15 +30,17 @@ Comment `pull` le repo depuis le serveur git ?
 
 Installation avec apache2 sous linux
 ------------------------------------
-sudo aptitude install apache2 php5 mysql-server libapache2-mod-php5 php5-mysql
-Entrer deux fois un mot de passe pour mysql (si ce n'etait pas deja installe)
+Ce qui suit est à réaliser sur une debian.  
+sudo aptitude install apache2 php5 mysql-server libapache2-mod-php5 php5-mysql  
+Entrer deux fois un mot de passe pour mysql (si ce n'etait pas deja installe)  
 
-mysql -u root -p 
-mysql> CREATE DATABASE epibay;
-mysql -u root -p epibay < db.sql
+mysql -u root -p  
+mysql> CREATE DATABASE epibay;  
+mysql -u root -p epibay < db.sql  
 
-Clonez le depot, deplacez les souces dans /var/www/
-Dans votre naviguateur, direction le localhost.
+Clonez le depot, deplacez les souces dans /var/www/.  
+Vérifiez que l'utilisateur www-data possède tous les droits sur les fichiers et répertoires présent dans /var/www.   
+Dans votre naviguateur, direction le localhost.  
 
 Y aura-t'il une session d'attaque ?
 -----------------------------------
