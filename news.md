@@ -22,3 +22,8 @@ Vendredi 19 avril 2013 - 14h00
 - 64k requètes sur le Gitlab (sans les assets)
 - 229M de repositories gits
 - 1 groupe avec 94 commits
+
+Lundi 22 avril 2013 - 12h00
+---------------------------
+- fermeture des repos dans la journée
+- bon courage
