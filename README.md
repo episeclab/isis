@@ -1,5 +1,7 @@
-IsisProject Presentation Repository
-===================================
+IsisProject
+===========
+
+**Prêts ? Feu ! Patchez !**
 
 <img src="https://raw.github.com/episeclab/logos/master/logos/isis/logo_center_small.png" width="600">
 
