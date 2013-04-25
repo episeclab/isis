@@ -1,18 +1,19 @@
 IsisProject 2013
 ================
 
-Lundi 15 avril 2013 - 14h00
+Jeudi 25 avril 2013 - 12h00
 ---------------------------
-- lancement du projet
+- Les relectures ont commencées
+- 64 groupes ont participés
+- 142 contributeurs
+- 1.959 commits
+- 32.375 lignes ajoutées
+- 24.824 lignes supprimées
 
-Mercredi 17 avril 2013 - 21h00
-------------------------------
-Quelques stats :
-- 107 groupes
-- 513 utilisateurs
-- 40 issues
-- 48 notes
-- 231 clés ssh
+Lundi 22 avril 2013 - 12h00
+---------------------------
+- fermeture des repos dans la journée
+- bon courage
 
 Vendredi 19 avril 2013 - 14h00
 ------------------------------
@@ -23,16 +24,15 @@ Vendredi 19 avril 2013 - 14h00
 - 229M de repositories gits
 - 1 groupe avec 94 commits
 
-Lundi 22 avril 2013 - 12h00
----------------------------
-- fermeture des repos dans la journée
-- bon courage
+Mercredi 17 avril 2013 - 21h00
+------------------------------
+Quelques stats :
+- 107 groupes
+- 513 utilisateurs
+- 40 issues
+- 48 notes
+- 231 clés ssh
 
-Jeudi 25 avril 2013 - 12h00
+Lundi 15 avril 2013 - 14h00
 ---------------------------
-- Les relectures ont commencées
-- 64 groupes ont participés
-- 142 contributeurs
-- 1.959 commits
-- 32.375 lignes ajoutées
-- 24.824 lignes supprimées
+- lancement du projet
