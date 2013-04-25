@@ -27,3 +27,12 @@ Lundi 22 avril 2013 - 12h00
 ---------------------------
 - fermeture des repos dans la journée
 - bon courage
+
+Jeudi 25 avril 2013 - 12h00
+---------------------------
+- Les relectures ont commencées
+- 64 groupes ont participés
+- 142 contributeurs
+- 1.959 commits
+- 32.375 lignes ajoutées
+- 24.824 lignes supprimées
